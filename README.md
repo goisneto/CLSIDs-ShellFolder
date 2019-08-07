@@ -1,0 +1,1 @@
+# All-CLSID-ShellFolder-s
